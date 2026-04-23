@@ -7,3 +7,19 @@ Secure payment processing
 - User account management.
 
 - Responsive designs.
+
+Features
+
+User authentication and authorization
+
+Product listing and search
+
+Shopping cart and checkout
+
+Order management
+
+Payment gateway integration
+
+Admin dashboard for product and inventory management
+
+Responsive UI for mobile and desktop
